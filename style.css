@@ -2,7 +2,7 @@ body{
     background-color: dodgerblue;
 
 } 
-#foto1{
+#real{
     height: 20%;
     width: 40%;
     padding: 1px;
@@ -55,4 +55,10 @@ h3{
     font-size: 35px;
 }
 
+#real2017 {
+    margin-left: 70%;
+    width: 25%;
+    border-radius: 20px;
+    vertical-align: top;
+}
 
